@@ -1,0 +1,6 @@
+{
+  "name": "PayNext — AI Customer Feedback Intelligence Platform",
+  "description": "AI-powered customer feedback intelligence platform for digital financial services. Ingest feedback, analyze recurring issues, and generate evidence-based product requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
